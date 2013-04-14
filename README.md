@@ -1,7 +1,7 @@
 # Useful Characters
 
 Two characters that are useful (to me, anyway). Includes zipped
-textClipping file for Mac users (unpack the Zip, double click the
+textClipping file for Mac users (unpack the zipfile, double click the
 textClipping file and command-C to copy to your clipboard), and a txt
 file.
 
